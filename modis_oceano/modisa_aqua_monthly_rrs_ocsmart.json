@@ -228,13 +228,13 @@
     ],
     "summaries": {
         "platform": [
-            "Aqua"
+            "aqua"
         ],
         "constellation": [
             "modis"
         ],
         "instruments": [
-            "MODIS"
+            "modis"
         ]
     },
     "item_assets": {
